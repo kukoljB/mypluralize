@@ -1,0 +1,23 @@
+{
+  "name": "mypluralize1",
+  "version": "1.0.0",
+  "description": "TickTock",
+  "main": "index.js",
+  "scripts": {
+  "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukoljB/mypluralize.git"
+  },
+  "author": "Biljana Kukolj <kukoljmilena8@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kukoljB/mypluralize/issues"
+  },
+  "homepage": "https://github.com/kukoljB/mypluralize#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
